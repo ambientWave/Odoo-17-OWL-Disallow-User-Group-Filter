@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+disallow_filter_field_no_perm,disallow_filter_field.disallow_filter_field,crm.model_crm_lead,disallow_filter_field.group_crm_hide_revenues_field,0,0,0,0
+disallow_filter_field_full_perm,disallow_filter_field.disallow_filter_field,crm.model_crm_lead,disallow_filter_field.group_crm_show_revenues_field,1,1,1,1
